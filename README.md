@@ -35,7 +35,7 @@ _Source: Fathom Consulting (2009)_
 
 1.	Housing market at equilibrium point A, where Demand0 meets Supply
 2.	Demand shock results in the demand curve shifting inwards from Demand0 to Demand1.
-3.	Sellers however initially are unwilling or unable to appropriately adjust prices to market-clearing levels, drying up transactions, resulting in reaching disequilibrium point B.
+3.	Sellers however initially are unwilling or unable to appropriately adjust prices to market-clearing levels, drying up transactions and resulting in reaching disequilibrium point B.
 4.	Eventually sellers are forced to drop the price level, resulting demand meeting the long-run supply curve once again at equilibrium point C.
 
 
