@@ -9,7 +9,6 @@ properties sold on UK auction houses since 1991. Using the ARME valuation model 
 property valuations, reflecting potential sale prices on the conventional market at the time of auction, can be estimated for properties in the EIG dataset. Consequently, the Auction Discount Index (ADI) was calculated from 149,000 discount estimates over 324 months.
 
 Toda and Yamamoto’s (1995) Augmented Granger-causality test affirms ADI leads Land Registry's UK HPI by seven months.
-. 
 
 ***
 
