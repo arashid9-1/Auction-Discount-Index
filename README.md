@@ -27,7 +27,7 @@ want to maximise their sale price, resulting in a reluctance to readjust their
 reservation price to the current market conditions. Therefore, prices adjust faster to
 current market conditions on the auction market than the conventional market
 
-The following figure visualises housing market price rigidity. . Suppose a negative shock to demand:
+The following figure visualises housing market price rigidity. Suppose a negative shock to demand:
 
 ![](Figure%201.png)
 
