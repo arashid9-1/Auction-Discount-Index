@@ -42,12 +42,6 @@ _Source: Fathom Consulting (2009)_
 Hence, properties sales can take months to finalise. Conversely, the price of a property sold at auction is determined at the fall of the hammer. Auction sales proxy the “mark-to-market” price, the value of the property if it was to sell today. As a result, the auction market adjusts faster to market conditions than the conventional property market. If the logic is sound, relative auction market price movements should lead conventional housing market movements.
 
 
-Hence, properties sales can take months to finalise. Conversely, The price of a property sold atauction is determined at the fall of the hammer. Auction sales proxy the
-“mark-to-market” price, the value of the property if it was to sell today. As a result,
-the auction market adjusts faster to market conditions than the conventional
-property market. If the logic is sound, relative auction market price movements
-should lead conventional housing market movements.
-
 ***
 
 ## The ADI
